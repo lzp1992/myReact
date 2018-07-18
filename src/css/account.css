@@ -1,0 +1,39 @@
+.account_count {
+    width: 100%;
+}
+
+.account_count div {
+    border-radius: 10px;
+    width: 30%;
+    height: 60px;
+    background: #ccc;
+    color: #000;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 60px;
+    margin-top: 20px;
+    margin-left: 35%;
+}
+
+.account_table {
+    margin-top: 10px;
+}
+
+.account_table table {
+    width: 100%;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+.account_table table thead {
+    background: #d9edf7;
+}

@@ -1,0 +1,15 @@
+.submit_date {
+    border-bottom: 1px solid #ccc;
+}
+
+.submit_name {
+    border-bottom: 1px solid #ccc;
+}
+
+.submit_price {
+    border-bottom: 1px solid #ccc;
+}
+
+.submit_btns {
+    margin-top: 10px
+}
